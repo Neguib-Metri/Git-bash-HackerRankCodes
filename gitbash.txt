@@ -1,0 +1,52 @@
+    1  git init
+    2  brach
+    3  branch
+    4  git branch
+    5  history
+    6  nano
+    7  history
+    8  cd ..
+    9  cd usuario
+   10  cd Desktop
+   11  ls
+   12  cd Esctritorio
+   13  mkdir Extempo3
+   14  cd Extempo3
+   15  ls
+   16  history
+   17  git init
+   18  git config --global user.mail "neguibhabib@live.com"
+   19  git config --global user.name "Neguipo"
+   20  git config --list
+   21  git init
+   22  gcc
+   23  install gcc
+   24  nano hola.c
+   25  ls
+   26  gcc hola.c
+   27  atp gcc
+   28  install atp gcc
+   29  sudo apt update
+   30  sudo apt install gcc
+   31  nano Pointers in C.c
+   32  ls
+   33  nano Pointers In C.c
+   34  ls
+   35  nano Funciones En C.c
+   36  ls
+   37  history
+   38  cd extempo2
+   39  ls
+   40  nano impar_y_imperfectos.c
+   41  nano impar_y_perfectos.c
+   42  nano Factores.c
+   43  nano impar_y_perfectos.c
+   44  nano Factores.c
+   45  history
+   46  ls
+   47  cd Desktop
+   48  ls
+   49  Mkdir HackerRankCodes
+   50  cd HackerRankCodes
+   51  ls
+   52  history > gitbash.txt
