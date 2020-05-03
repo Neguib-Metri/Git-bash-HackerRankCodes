@@ -50,3 +50,90 @@
    50  cd HackerRankCodes
    51  ls
    52  history > gitbash.txt
+   53  ls
+   54  nano Boxesthroghatunel.c
+   55  nano Boxesthroghatunel.c
+   56  nano ConditionalsstatemntsinC.c
+   57  nano ConditionalsstatemntsinC.c
+   58  nano bitwise_op.c
+   59  nano bitwise_op.c
+   60  nano sum_digits.c
+   61  nano sum_digits.c
+   62  nano sum_of_marks.c
+   63  nano sum_digits.c
+   64  nano bitwise_op.c
+   65  nano Boxesthroghatunel.c
+   66  nano ConditionalsstatemntsinC.c
+   67  ls
+   68  git remote add origin https://github.com/Neguib-Metri/empty.git
+   69  git add sumof5digits.c
+   70  ls
+   71  git add
+   72  git push -u origin master
+   73  git add -A
+   74  ls
+   75  clear
+   76  history
+   77  git init
+   78  git remote add origin https://github.com/Neguib-Metri/empty.git
+   79  git add -A
+   80  git status
+   81  git commit -m "HackerRank Checkpoint2 prueba de bash"
+   82  git config --global user.email "neguibhabib@live.com
+   83  Secretos14#
+   84  git config --global user.name "Neguib Metri
+   85  git commit -m "HackerRank Checkpoint2 prueba de bash"
+   86  git push 
+   87  git push --set-upstrem origin master
+   88  git status
+   89  git add -A
+   90  ls
+   91  git status
+   92  git init
+   93  git commit -m "HackerRank Checkpoint2 prueba de bash"
+   94  git add -A
+   95  git status
+   96  git config --global user.email "neguibhabib@live.com
+   97  git config --global user.name "Neguib Metri
+   98  git status
+   99  git add all
+  100  ls
+  101  git init
+  102  git config --global user.email "neguibhabib@live.com"
+  103  git config --global user.name "Neguib Metri"
+  104  git add -A
+  105  git commit -m "HackerRank Checkpoint2 prueba de bash"
+  106  git status
+  107  git push
+  108  git push bitwiseoperators.c
+  109  git push --set-upstream bitwiseoperators.c master
+  110  echo "# empty" >> README.md
+  111  git init
+  112  git add README.md
+  113  git commit -m "first commit""
+  114  First commit
+  115  git remote add origin https://github.com/Neguib-Metri/empty.git
+  116  git push -u origin master
+  117  clear
+  118  echo "# Git-bash-HackerRankCodes" >> README.md
+  119  git init
+  120  git add README.md
+  121  git commit -m "first commit"
+  122  git remote add origin https://github.com/Neguib-Metri/Git-bash-HackerRankCodes.git
+  123  git status
+  124  git clone
+  125  git clone HackerRankCodes
+  126  git clone HackerRank.Provisional
+  127  ls
+  128  ls
+  129  git add all
+  130  git add -A
+  131  git add all
+  132  git status
+  133  git push -u origin master
+  134  git add -A
+  135  git status
+  136  git commit -m "HackerRankCodes"
+  137  git push 
+  138  git status
+  139  history >> "GitBash.txt"
